@@ -1,0 +1,7 @@
+.env
+/lib/
+/node_modules/
+/public/
+/src/
+/styles/
+/utils/
