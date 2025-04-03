@@ -1,8 +1,8 @@
-# evaluAIte  
+# gradeAI  
 
 ## Abstract
 
-**evaluAIte** is an application designed to streamline the grading process for educational institutions, specifically catering to professors and teachers.  
+**gradeAI** is an application designed to streamline the grading process for educational institutions, specifically catering to professors and teachers.  
 
 ## Key Features  
 
@@ -22,4 +22,4 @@
 
 ## Conclusion  
 
-By seamlessly integrating advanced AI technology, **evaluAIte** automates and enhances the efficiency of traditional grading systems. This empowers educators with a robust tool for managing and evaluating student performance with accuracy and ease.  
+By seamlessly integrating advanced AI technology, **gradeAI** automates and enhances the efficiency of traditional grading systems. This empowers educators with a robust tool for managing and evaluating student performance with accuracy and ease.  
